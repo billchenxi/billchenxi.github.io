@@ -1,4 +1,4 @@
-# MAD4Jekyll - Theme for Jekyll 
+# CX 
 
 > !!! Configured for **USER** pages !!!
 
