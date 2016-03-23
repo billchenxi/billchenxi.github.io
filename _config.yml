@@ -37,7 +37,7 @@ linkedin_username: billchenxi
  
 # Internal nav
 nav:
- writing: "source_url/writing/"
+ blog: "source_url/blog/"
  gallery: "source_url/gallery/"
  about: "source_url/about/"
  cv: "source_url/cv/"
@@ -65,8 +65,8 @@ redcarpet:
 sass:
     style:          :compressed
 paginate: 3 # this is show  how many post are list in one page
-paginate_path: "/writing/page:num/"
-permalink: "/writing/:title/"
+paginate_path: "/blog/page:num/"
+permalink: "/blog/:title/"
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 slugify: "pretty"
 

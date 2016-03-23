@@ -1,5 +1,5 @@
 ---
-layout: "writing_by_tag"
+layout: "blog_by_tag"
 tag: "tag-name-two"
-permalink: "/writing/tag/tag-name-two/"
+permalink: "/blog/tag/tag-name-two/"
 ---
