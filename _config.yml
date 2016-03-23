@@ -64,7 +64,7 @@ redcarpet:
     input:          GFM
 sass:
     style:          :compressed
-paginate: 5
+paginate: 3 # this is show  how many post are list in one page
 paginate_path: "/writing/page:num/"
 permalink: "/writing/:title/"
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
