@@ -25,7 +25,9 @@ The only way you can kind of solve is wrapping the video link into a click-able 
 <pre><code>[![All I ask](http://img.youtube.com/vi/utNKjspT39I/0.jpg)](https://www.youtube.com/watch?v=utNKjspT39I?autoplay=T "All I ask")
 </code></pre>
 
-<pre><code> ![All I ask] </code></pre>
-It is the title of the picture.
+Similiar situation for music players like [SoundCloud](www.soundcloud.com), [Spodify](www.spodify.com) and [Google Player](www.google.com/play). And you cannot stream on your website unless is the html format.
 
- 
+By now, if you still want to build your own statistic website, then you can follow the below tutorial:
+
+## 1. Install the Jekyll on your machine.
+For this   
