@@ -25,3 +25,7 @@ The only way you can kind of solve is wrapping the video link into a click-able 
 <pre><code>[![All I ask](http://img.youtube.com/vi/utNKjspT39I/0.jpg)](https://www.youtube.com/watch?v=utNKjspT39I?autoplay=T "All I ask")
 </code></pre>
 
+<pre><code> ![All I ask] </code></pre>
+It is the title of the picture.
+
+ 
