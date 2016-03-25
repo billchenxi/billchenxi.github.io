@@ -1,0 +1,13 @@
+#toc {
+  position: fixed;
+  right: 0;
+  top: 80;
+  background-color:#FFF;
+}
+
+#toc #full { display: none; 
+} /* Hide the full TOC by default */
+
+#toc:hover #full{
+  display: block; /* Show it on hover */
+}
