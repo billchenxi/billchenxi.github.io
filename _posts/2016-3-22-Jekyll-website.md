@@ -48,4 +48,39 @@ To make your website alive, of course locally, you can do:
 Now open your browser and type http://localhost:4000 and see.
 
 # 2. How to configure the all the files.
-I understand there are so many 
+I understand there are so many files and folders in your newly generated website directory. So let me give you some information about what you can customize. 
+
+## _configi.yml
+this is the file you need to change, the jekyll engine will use the information here to change your website accordingly.
+
+You should change [title] of your site, [email], [description] about your site, [url] of your website (more than often you don't have it at this stage), [twitter_username], [github_username].
+
+## adding more post for to your website
+So far you have a website as a blog page, I know it's not fancy enough, but it's good enough for now. Why don't we add some posts?
+
+To add posts to your web, you can add markdown files to the _post folder.
+
+   * Markdown is a Markdown is a text-to-HTML conversion tool for web writers. You can write like using word document and markdown will general the corresponding html page for you. 
+   For more information about markdown, you can visit this [link](http://daringfireball.net/projects/markdown/).
+   * After you finish your post, save it in the forloowing format: YYYY-MM-DD-title.md.
+   Markdown will recognize the deliminator "-" and convert the file name in to data and title.
+
+# 3. Check your website locally
+  Do the same thing as above:
+  
+  To make your website alive, of course locally, you can do:
+<pre><code> ~$ cd my-awesome-site       # change directory to the website folder you just created 
+ ~/my-awesome-site $ jekyll serve
+</code></pre>
+  Now open your browser and type in the address: http://localhost:4000.
+
+
+
+# Tha'ts all, now you have a website, and what you need to do is find a place to host it and give it a domain name.
+For this part, do go to this webpage [Using GitHub Pages to Host Your Website](http://blog.teamtreehouse.com/using-github-pages-to-host-your-website) and learn.
+
+And it's free for the hosting and domain name.
+
+Good luck with it, leave a message if you want to know more.
+
+  
