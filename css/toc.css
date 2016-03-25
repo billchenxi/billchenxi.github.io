@@ -1,5 +1,10 @@
-<style>
-  #contents:hover div {
-    display: block;
-  }
-</style>
+#toc {
+  position: fixed;
+  right: 0;
+  top: 0;
+  background-color:#FFF;
+}
+#toc #full { display: none; }
+#toc:hover #full{
+  display: block;
+}
