@@ -8,9 +8,6 @@ header-img: ""
 thumbnail: 
 tags: [Jekyll, website]
 categories: [Jekylle]
-output: 
-    html_document:
-        toc: true
 ---
 
 # Do you want a website?
