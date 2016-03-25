@@ -8,6 +8,9 @@ header-img: ""
 thumbnail: 
 tags: [Jekyll, website]
 categories: [Jekylle]
+output: 
+    html_document:
+        toc: true
 ---
 
 # Do you want a website?
@@ -33,21 +36,19 @@ By now, if you still want to build your own statistic website, then you can foll
 You can find all the information here: [Jekyll](http://jekyllrb.com). 
 
 On mac, I believe ruby is already installed, so you can just simply run the following code, but on Windows, you might need to install ruby first.
-<pre><code>
-~$ gem install jekyll
+<pre><code>~$ gem install jekyll
 </code></pre>
 
 Then you can test by generating a "website" at your home directory>
-<pre><code>
-~$ jekyll new my-awesome-site # you can change to your name suits you
+<pre><code>~$ jekyll new my-awesome-site # you can change to your name suits you
 </code></pre>
 
 To make your website alive, of course locally, you can do:
-<pre><code>
- ~$ cd my-awesome-site       # change directory to the website folder you just created 
+<pre><code> ~$ cd my-awesome-site       # change directory to the website folder you just created 
  ~/my-awesome-site $ jekyll serve
 </code></pre>
 
 Now open your browser and type http://localhost:4000 and see.
 
 # 2. How to configure the all the files.
+I understand there are so many 
