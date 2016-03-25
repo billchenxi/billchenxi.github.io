@@ -25,9 +25,29 @@ The only way you can kind of solve is wrapping the video link into a click-able 
 <pre><code>[![All I ask](http://img.youtube.com/vi/utNKjspT39I/0.jpg)](https://www.youtube.com/watch?v=utNKjspT39I?autoplay=T "All I ask")
 </code></pre>
 
-Similiar situation for music players like [SoundCloud](www.soundcloud.com), [Spodify](www.spodify.com) and [Google Player](www.google.com/play). And you cannot stream on your website unless is the html format.
+Similiar situation for music players like [SoundCloud](www.soundcloud.com), [Spodify](www.spodify.com) and [Google Player](www.google.com/play). And you cannot stream on your website unless is the html format. The home page of my site is using html file and it streams music from SoundCloud.
 
-By now, if you still want to build your own statistic website, then you can follow the below tutorial:
+By now, if you still want to build your own statistic website, then you can follow the below tutorial. And for making my life easier, I will only demonstrate the procedure for Mac and Linux. For Windows is similar.
 
-## 1. Install the Jekyll on your machine.
-For this   
+# 1. Install the Jekyll on your machine.
+You can find all the information here: [Jekyll](http://jekyllrb.com). 
+
+On mac, I believe ruby is already installed, so you can just simply run the following code, but on Windows, you might need to install ruby first.
+<pre><code>
+~$ gem install jekyll
+</code></pre>
+
+Then you can test by generating a "website" at your home directory>
+<pre><code>
+~$ jekyll new my-awesome-site # you can change to your name suits you
+</code></pre>
+
+To make your website alive, of course locally, you can do:
+<pre><code>
+ ~$ cd my-awesome-site       # change directory to the website folder you just created 
+ ~/my-awesome-site $ jekyll serve
+</code></pre>
+
+Now open your browser and type http://localhost:4000 and see.
+
+# 2. How to configure the all the files.
