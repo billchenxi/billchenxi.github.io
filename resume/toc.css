@@ -3,7 +3,7 @@
   right: 0;
   top: 80;
   background-color: peachpuff;
-  color: black;
+  color: #DF723E;
   
 }
 
@@ -22,7 +22,7 @@ body {
 }
 
 .name {
-  color: gainsboro;
+  color: #DF723E;
   display: inline-block;
   font-size: 1.4em;
   letter-spacing: 3px;
@@ -30,16 +30,16 @@ body {
 }
 
 .contact-information, .links-container {
-  color: #808284;
+  color: azure;
   display: inline-block;
   font-size: .8em;
   letter-spacing: 1px;
   line-height: .9em;
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 
 .contact-deets {
-  color: #58585B;
+  color: azure;
   display: inline-block;
   margin-bottom: 2%;
   margin-top: 1.1em;
@@ -47,7 +47,7 @@ body {
 }
 
 .links {
-  color: #58585B;
+  color: azure;
   display: inline-block;
   text-decoration: none;
 }
