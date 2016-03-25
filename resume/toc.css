@@ -22,7 +22,7 @@ body {
 }
 
 .name {
-  color: #DF723E;
+  color: gainsboro;
   display: inline-block;
   font-size: 1.4em;
   letter-spacing: 3px;
