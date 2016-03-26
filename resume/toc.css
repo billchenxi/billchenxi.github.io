@@ -35,7 +35,7 @@ body {
   font-size: .8em;
   letter-spacing: 1px;
   line-height: .8em;
-  text-transform: capitalize;
+  /*text-transform: capitalize;*/
 }
 
 .contact-deets {
