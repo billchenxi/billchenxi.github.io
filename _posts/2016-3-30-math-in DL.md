@@ -10,9 +10,9 @@ tags: [deep learning, Neural Network, NN, DL]
 categories: [Deep Learning]
 ---
 
-I have been always wonder what is exactly neural network (NN) is. To simplify in one sentence, it's 
+I have been always wonder what is exactly the neural network (NN) is. To simplify in one sentence, it's 
 the collection of machine learnings represented in a network structure, and the neural part is just
  for fancy. 
  
 
-So far, I have find out deep learning (DL) and NN are almost equivalent.   
+So far, I have found out deep learning (DL) and NN are almost equivalent.   
