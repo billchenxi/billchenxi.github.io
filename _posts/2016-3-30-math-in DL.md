@@ -2,7 +2,7 @@
 layout: post
 title: Math in Deep Learning (Neural Networks)
 subtitle: It works!
-date:       2016-3-30
+date:       2016-8-30
 author:     "Bill"
 header-img: ""
 thumbnail: 
