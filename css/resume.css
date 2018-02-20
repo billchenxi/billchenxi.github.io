@@ -35,7 +35,7 @@ h2 {
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
-  font-family: 'Saira Extra Condensed', serif;
+  font-family: 'Anivers';
   font-size: 1.35rem;
 }
 
@@ -143,9 +143,9 @@ section.resume-section .resume-item .resume-date {
 }
 
 a {
-  color: rgb(13, 52, 110);
+  color: rgb(0, 0, 0);
 }
 
 a:hover, a:focus, a:active {
-  color: #824027;
+  color: rgb(13, 52, 110);
 }
