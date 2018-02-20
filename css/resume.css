@@ -1,7 +1,7 @@
 body {
   font-family: 'Open Sans', serif;
   padding-top: 54px;
-  color: #868e96;
+  color: #000000;
 }
 
 @media (min-width: 992px) {
@@ -18,9 +18,9 @@ h4,
 h5,
 h6 {
   font-family: 'Saira Extra Condensed', serif;
-  font-weight: 700;
+  font-weight: 1000;
   text-transform: uppercase;
-  color: #343a40;
+  color: #000000;
 }
 
 h1 {
@@ -44,7 +44,7 @@ h2 {
 }
 
 .list-social-icons a:hover {
-  color: rgb(255, 0, 0);
+  color: rgb(13, 52, 110);
 }
 
 .list-social-icons a .fa-lg {
@@ -56,7 +56,7 @@ h2 {
 }
 
 .list-icons .list-inline-item i:hover {
-  color: rgb(255, 0, 0);
+  color: rgb(13, 52, 110);
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -105,7 +105,7 @@ h2 {
 }
 
 section.resume-section {
-  border-bottom: 1px solid #dee2e6;
+  border-bottom: 1px solid #d9d9da;
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
 }
@@ -131,15 +131,19 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: rgb(255, 0, 0) !important;
+  background-color: rgb(13, 52, 110) !important;
 }
 
 .text-primary {
+  color: rgb(13, 52, 110) !important;
+}
+
+.text-cx {
   color: rgb(255, 0, 0) !important;
 }
 
 a {
-  color: rgb(255, 0, 0);
+  color: rgb(13, 52, 110);
 }
 
 a:hover, a:focus, a:active {
